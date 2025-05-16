@@ -1,1 +1,1 @@
-# Porftolio2
+A brief description about me, my trajectory and projects i embark on along the journey.
